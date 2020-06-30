@@ -6,3 +6,6 @@ This app is a software engineering team generator command line application. The 
 
 # Usage
 enter node app.js to start the prompts
+
+#Video Demo
+https://drive.google.com/file/d/10px1Fk2xDfCFXHDizX8kdwrJpnfvz5qQ/view
